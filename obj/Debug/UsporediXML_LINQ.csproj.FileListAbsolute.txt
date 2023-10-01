@@ -1,0 +1,8 @@
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\bin\Debug\UsporediXML_LINQ.exe.config
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\bin\Debug\UsporediXML_LINQ.exe
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\bin\Debug\UsporediXML_LINQ.pdb
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\obj\Debug\UsporediXML_LINQ.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\obj\Debug\UsporediXML_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\obj\Debug\UsporediXML_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\obj\Debug\UsporediXML_LINQ.exe
+C:\Users\linar\Documents\programiranje\CompareXML_LINQ-main\obj\Debug\UsporediXML_LINQ.pdb
